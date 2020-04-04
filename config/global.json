@@ -1,11 +1,11 @@
 {
     "applications": {
-        "<your app name>": {
-            "applicationId": "<your app id>",
-            "masterKey": "<your master key>"
+        "<Bidderz App>": {
+            "applicationId": "<Bidderz App>",
+            "masterKey": "<12292014>"
         }, 
         "_default": {
-            "link": "<your app name>"
+            "link": "<Bidderz App>"
         }
     }, 
     "global": {
